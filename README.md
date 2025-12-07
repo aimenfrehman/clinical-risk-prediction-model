@@ -1,7 +1,7 @@
 # Project Title: [clinical-risk-prediction-model]
 
 ## Overview
-Short description of the problem in healthcare and what the project does.
+In this project I aim to create a logistic regression model that will predict malignancy of a tumor, heart disease and diabetes. 
 
 ## Dataset
 Source, size, variables, notes.
@@ -9,7 +9,7 @@ Source, size, variables, notes.
 ## Methods Used
 - EDA
 - Cleaning
-- Statistical modeling (logistic regression, survival analysis, etc.)
+- Statistical modeling (logistic regression)
 - Machine learning techniques
 - Data visualization
 
